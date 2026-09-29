@@ -1,8 +1,3 @@
 {
-  "$schema": "https://openapi.vercel.sh/vercel.json",
-  "functions": {
-    "api/webhook.js": {
-      "runtime": "nodejs22.x"
-    }
-  }
+  "$schema": "https://openapi.vercel.sh/vercel.json"
 }
